@@ -1,0 +1,22 @@
+{
+    "name": "colorce",
+    "version": "1.0.0",
+    "description": "Terminal highlighting as simple as it should be.",
+    "author": "Victor Navarro",
+    "license": "MIT",
+    "repository": "https://github.com/papeloto/colorce.git",
+    "main": "index.js",
+    "keywords": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "shell",
+        "cli",
+        "log",
+        "logging",
+        "command-line",
+        "formating"
+    ]
+}
