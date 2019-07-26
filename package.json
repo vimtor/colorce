@@ -15,5 +15,18 @@
     "bugs": {
         "url": "https://github.com/papeloto/colorce/issues"
     },
-    "homepage": "https://github.com/papeloto/colorce#readme"
+    "homepage": "https://github.com/papeloto/colorce#readme",
+    "keywords": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "shell",
+        "cli",
+        "log",
+        "logging",
+        "command-line",
+        "formating"
+    ]
 }
