@@ -2,21 +2,18 @@
     "name": "colorce",
     "version": "1.0.0",
     "description": "Terminal highlighting as simple as it should be.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/papeloto/colorce.git"
+    },
     "author": "Victor Navarro",
     "license": "MIT",
-    "repository": "https://github.com/papeloto/colorce.git",
-    "main": "index.js",
-    "keywords": [
-        "color",
-        "colour",
-        "colors",
-        "terminal",
-        "console",
-        "shell",
-        "cli",
-        "log",
-        "logging",
-        "command-line",
-        "formating"
-    ]
+    "bugs": {
+        "url": "https://github.com/papeloto/colorce/issues"
+    },
+    "homepage": "https://github.com/papeloto/colorce#readme"
 }
