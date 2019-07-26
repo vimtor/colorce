@@ -4,13 +4,13 @@ Terminal highlighting as simple as it should be.
 
 ![Console Color](https://i.imgur.com/Da53488.png)
 
-# Install
+## Install
 
 ```
 $ npm install colorce
 ```
 
-# Usage
+## Usage
 
 Simply import and invoke the module at the top of your main script.
 
