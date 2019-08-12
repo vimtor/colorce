@@ -1,6 +1,6 @@
 {
   "name": "colorce",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Terminal highlighting as simple as it should be.",
   "main": "index.js",
   "repository": {
